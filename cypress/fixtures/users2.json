@@ -1,0 +1,7 @@
+{
+    "valid_user": "standard_user",
+    "invalid_user": "username",
+    "lock_user": "locked_out_user",
+    "valid_pass": "secret_sauce",
+    "invalid_password": "password"
+}
